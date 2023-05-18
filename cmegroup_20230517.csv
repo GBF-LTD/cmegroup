@@ -1,18 +1,13 @@
-Month,Open,High,Low,Last,Change,Settle,Est. Volume,Prior day OI,Title,Last Updated Date
-MAY 23,-,-,-,-,0.261,676.554,0,3,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-JUN 23,-,-,-,-,0.159,677.614,0,38,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-JLY 23,-,-,-,-,0.0,676.5,0,1,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-AUG 23,-,-,-,-,0.0,677.37,0,1,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-SEP 23,-,-,-,-,-0.166,678.917,0,1,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-OCT 23,-,-,-,-,-0.409,678.068,0,4,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-NOV 23,-,-,-,-,-0.671,674.352,0,4,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-DEC 23,-,-,-,-,-0.75,672.513,0,26,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-JAN 24,-,-,-,-,-0.75,671.568,0,6,European Low Sulphur Gasoil Financial,Last Updated 16 May 2023 10:32:00 PM CT
-MAY 23,-,-,-,-,0.196,0.659,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-JUN 23,-,-,-,-,0.625,2.0,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-JLY 23,-,-,-,-,0.5,0.667,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-AUG 23,-,-,-,-,0.666,0.166,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-SEP 23,-,-,-,-,1.25,0.25,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-OCT 23,-,-,-,-,0.083,1.0,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-NOV 23,-,-,-,-,0.084,1.0,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
-DEC 23,-,-,-,-,0.084,1.0,0,30,European Diesel 10 ppm Barges FOB ARA (Platts) vs. Low Sulphur Gasoil,Last Updated 16 May 2023 10:32:00 PM CT
+Title: European Low Sulphur Gasoil Financial
+Last Updated Date: Last Updated 17 May 2023 10:32:00 PM CT
+Month,Open,High,Low,Last,Change,Settle,Est. Volume,Prior day OI
+Month,Open,High,Low,Last,Change,Settle,Est. Volume,Prior day OI
+MAY 23,-,-,-,-,6.696,683.25,0,3
+JUN 23,-,-,-,-,12.977,690.591,0,38
+JLY 23,-,-,-,-,11.667,688.167,0,1
+AUG 23,-,-,-,-,11.076,688.446,0,1
+SEP 23,-,-,-,-,11.0,689.917,0,1
+OCT 23,-,-,-,-,10.841,688.909,0,4
+NOV 23,-,-,-,-,10.58,684.932,0,4
+DEC 23,-,-,-,-,10.337,682.85,0,26
+JAN 24,-,-,-,-,10.25,681.818,0,6
