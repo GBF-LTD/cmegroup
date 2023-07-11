@@ -1,32 +1,10 @@
 Title: BRITISH POUND FUTURES - QUOTES
-Last Settlement Trade Date: Open Interest Profile Tool
-Analyze open interest and open interest change patterns for each expiration within the selected product.
-FX Swap Rate Monitor Tool
-Assess implied interest rate differentials using the mid-market FX swap points from the FX Link central limit order book.
-The FX Roll Analyzer Tool
-Get daily updates and analysis allowing you to adjust quarterly roll strategies for optimal efficiency.
-FX Options Vol Converter Tool
-Access and learn more about CME Group’s innovative tool that calculates and converts listed CME FX options into OTC-equivalent terms.
-Commitment of Traders Tool
-View FX market open interest reports based on CFTC reports in a comprehensive graph format.
-FX Market Profile Tool
-Compare liquidity in OTC spot from EBS and CME FX futures on one screen to identify the optimal time and market to manage your FX risk.
-Looking for more? Explore our additional resources
-QUICKLINKS
-Trade FX options
-FX Market Profile Tool
-G6 options resources: Intermediaries
-FX Swap Rate Monitor Tool
-Subscribe to The FX Report
-Block rules
-FX Options Vol Converter Tool
-FX Product Guide
-FREQUENTLY ASKED QUESTIONS: DISCOVER MORE ABOUT USD/CNH OPTIONS
+Last Settlement Trade Date: Last Updated 10 Jul 2023 06:02:00 PM CT
 Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
 Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
 JUL 2023 6BN3,Opt,,1.2901,+0.0042 (+0.33%),1.2859,1.2870,1.2911,1.2869,147,04:26:26 CT  11 Jul 2023
 AUG 2023 6BQ3,Opt,,1.2902,+0.0041 (+0.32%),1.2861,1.2872,1.2908,1.2871,139,04:14:10 CT  11 Jul 2023
-SEP 2023 6BU3,Opt,,1.2914,+0.0053 (+0.41%),1.2861,1.2863,1.2917,1.2861,45569,04:40:29 CT  11 Jul 2023
+SEP 2023 6BU3,Opt,,1.2919,+0.0058 (+0.45%),1.2861,1.2863,1.2919,1.2861,46041,04:43:52 CT  11 Jul 2023
 OCT 2023 6BV3,Opt,,-,-,1.2859,-,-,-,0,18:24:11 CT  10 Jul 2023
 NOV 2023 6BX3,Opt,,-,-,0.0000,-,-,-,0,18:24:06 CT  10 Jul 2023
 DEC 2023 6BZ3,Opt,,1.2875,+0.0027 (+0.21%),1.2848,1.2859,1.2895,1.2859,101,03:33:20 CT  11 Jul 2023
