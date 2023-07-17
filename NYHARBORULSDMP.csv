@@ -1,65 +1,46 @@
 Title: NY HARBOR ULSD FINANCIAL FUTURES - QUOTES
-Last Settlement Trade Date: CME OPEC Watch Tool
-Stay up to date with the probabilities of certain outcomes of the next OPEC meeting using NYMEX WTI Crude Oil option prices.
-Interactive Expiration Calendar
-Use this calendar to find relevant product dates and CME Group holiday hours.
-Option Settlement Tools
-Anlayze settlement values for all CME Group options products, including both settlement prices and implied volatilities.
-Open Interest Profile Tool
-Analyze open interest and open interest change patterns for each expiration within the selected product.
-Looking for more? Explore our additional resources
-PRODUCTS
-Container Freight futures
-Micro WTI Crude Oil futures
-Core Global Emissions Offset (C-GEO) futures
-Weekly energy options
-RESOURCES
-Trading resources
-Tools
-Research and analysis
-Expiration Calendar
-LAUNCHING SOON: MONDAY AND WEDNESDAY WTI WEEKLY OPTIONS
-Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
-Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
-JUL 2023 MPXN3,Opt,,-,-,2.579,-,-,-,0,16:37:58 CT  14 Jul 2023
-AUG 2023 MPXQ3,Opt,,-,-,2.6046,-,-,-,0,16:37:58 CT  14 Jul 2023
-SEP 2023 MPXU3,Opt,,-,-,2.5984,-,-,-,0,16:38:06 CT  14 Jul 2023
-OCT 2023 MPXV3,Opt,,-,-,2.5876,-,-,-,0,16:38:06 CT  14 Jul 2023
-NOV 2023 MPXX3,Opt,,-,-,2.5736,-,-,-,0,16:38:01 CT  14 Jul 2023
-DEC 2023 MPXZ3,Opt,,-,-,2.5641,-,-,-,0,16:38:03 CT  14 Jul 2023
-JAN 2024 MPXF4,Opt,,-,-,2.5504,-,-,-,0,16:38:04 CT  14 Jul 2023
-FEB 2024 MPXG4,Opt,,-,-,2.5299,-,-,-,0,16:37:12 CT  14 Jul 2023
-MAR 2024 MPXH4,Opt,,-,-,2.5026,-,-,-,0,16:38:07 CT  14 Jul 2023
-APR 2024 MPXJ4,Opt,,-,-,2.4825,-,-,-,0,16:37:46 CT  14 Jul 2023
-MAY 2024 MPXK4,Opt,,-,-,2.4662,-,-,-,0,16:37:12 CT  14 Jul 2023
-JUN 2024 MPXM4,Opt,,-,-,2.4585,-,-,-,0,16:37:45 CT  14 Jul 2023
-JUL 2024 MPXN4,Opt,,-,-,2.4538,-,-,-,0,16:37:25 CT  14 Jul 2023
-AUG 2024 MPXQ4,Opt,,-,-,2.4502,-,-,-,0,16:38:04 CT  14 Jul 2023
-SEP 2024 MPXU4,Opt,,-,-,2.4478,-,-,-,0,16:38:02 CT  14 Jul 2023
-OCT 2024 MPXV4,Opt,,-,-,2.4433,-,-,-,0,16:37:46 CT  14 Jul 2023
-NOV 2024 MPXX4,Opt,,-,-,2.437,-,-,-,0,16:37:25 CT  14 Jul 2023
-DEC 2024 MPXZ4,Opt,,-,-,2.4304,-,-,-,0,16:38:07 CT  14 Jul 2023
-JAN 2025 MPXF5,Opt,,-,-,2.4219,-,-,-,0,16:37:57 CT  14 Jul 2023
-FEB 2025 MPXG5,Opt,,-,-,2.408,-,-,-,0,16:37:14 CT  14 Jul 2023
-MAR 2025 MPXH5,Opt,,-,-,2.3882,-,-,-,0,16:37:57 CT  14 Jul 2023
-APR 2025 MPXJ5,Opt,,-,-,2.3758,-,-,-,0,16:37:30 CT  14 Jul 2023
-MAY 2025 MPXK5,Opt,,-,-,2.3655,-,-,-,0,16:37:36 CT  14 Jul 2023
-JUN 2025 MPXM5,Opt,,-,-,2.3627,-,-,-,0,16:37:36 CT  14 Jul 2023
-JUL 2025 MPXN5,Opt,,-,-,2.3604,-,-,-,0,16:38:32 CT  14 Jul 2023
-AUG 2025 MPXQ5,Opt,,-,-,2.3583,-,-,-,0,16:37:10 CT  14 Jul 2023
-SEP 2025 MPXU5,Opt,,-,-,2.3554,-,-,-,0,16:37:14 CT  14 Jul 2023
-OCT 2025 MPXV5,Opt,,-,-,2.3493,-,-,-,0,16:37:56 CT  14 Jul 2023
-NOV 2025 MPXX5,Opt,,-,-,2.3411,-,-,-,0,16:38:32 CT  14 Jul 2023
-DEC 2025 MPXZ5,Opt,,-,-,2.3473,-,-,-,0,16:37:36 CT  14 Jul 2023
-JAN 2026 MPXF6,Opt,,-,-,2.346,-,-,-,0,16:38:02 CT  14 Jul 2023
-FEB 2026 MPXG6,Opt,,-,-,2.3414,-,-,-,0,16:38:02 CT  14 Jul 2023
-MAR 2026 MPXH6,Opt,,-,-,2.3301,-,-,-,0,16:38:03 CT  14 Jul 2023
-APR 2026 MPXJ6,Opt,,-,-,2.3173,-,-,-,0,16:38:35 CT  14 Jul 2023
-MAY 2026 MPXK6,Opt,,-,-,2.3026,-,-,-,0,16:37:49 CT  14 Jul 2023
-JUN 2026 MPXM6,Opt,,-,-,2.305,-,-,-,0,16:37:49 CT  14 Jul 2023
-JUL 2026 MPXN6,Opt,,-,-,2.3026,-,-,-,0,16:38:01 CT  14 Jul 2023
-AUG 2026 MPXQ6,Opt,,-,-,2.2975,-,-,-,0,16:38:35 CT  14 Jul 2023
-SEP 2026 MPXU6,Opt,,-,-,2.2958,-,-,-,0,16:38:02 CT  14 Jul 2023
-OCT 2026 MPXV6,Opt,,-,-,2.2889,-,-,-,0,16:37:38 CT  14 Jul 2023
-NOV 2026 MPXX6,Opt,,-,-,2.2759,-,-,-,0,16:37:54 CT  14 Jul 2023
-DEC 2026 MPXZ6,Opt,,-,-,2.2828,-,-,-,0,16:38:02 CT  14 Jul 2023
+Last Settlement Trade Date: Last Updated 14 Jul 2023 11:12:00 PM CT
+Month,Options,Chart,Last,Change,PriorSettle,Open,High,Low,Volume,Updated
+Month,Options,Chart,Last,Change,PriorSettle,Open,High,Low,Volume,Updated
+JUL 2023MPXN3,Opt,,-,-,2.5715,-,-,-,0,16:00:00 CT 16 Jul 2023
+AUG 2023MPXQ3,Opt,,-,-,2.5894,-,-,-,0,16:00:00 CT 16 Jul 2023
+SEP 2023MPXU3,Opt,,-,-,2.5816,-,-,-,0,16:00:00 CT 16 Jul 2023
+OCT 2023MPXV3,Opt,,-,-,2.5689,-,-,-,0,16:00:00 CT 16 Jul 2023
+NOV 2023MPXX3,Opt,,-,-,2.553,-,-,-,0,16:00:00 CT 16 Jul 2023
+DEC 2023MPXZ3,Opt,,-,-,2.5426,-,-,-,0,16:00:00 CT 16 Jul 2023
+JAN 2024MPXF4,Opt,,-,-,2.5283,-,-,-,0,16:00:00 CT 16 Jul 2023
+FEB 2024MPXG4,Opt,,-,-,2.5076,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAR 2024MPXH4,Opt,,-,-,2.4801,-,-,-,0,16:00:00 CT 16 Jul 2023
+APR 2024MPXJ4,Opt,,-,-,2.4597,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAY 2024MPXK4,Opt,,-,-,2.4431,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUN 2024MPXM4,Opt,,-,-,2.4354,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUL 2024MPXN4,Opt,,-,-,2.4301,-,-,-,0,16:00:00 CT 16 Jul 2023
+AUG 2024MPXQ4,Opt,,-,-,2.4264,-,-,-,0,16:00:00 CT 16 Jul 2023
+SEP 2024MPXU4,Opt,,-,-,2.4242,-,-,-,0,16:00:00 CT 16 Jul 2023
+OCT 2024MPXV4,Opt,,-,-,2.4202,-,-,-,0,16:00:00 CT 16 Jul 2023
+NOV 2024MPXX4,Opt,,-,-,2.4145,-,-,-,0,16:00:00 CT 16 Jul 2023
+DEC 2024MPXZ4,Opt,,-,-,2.4078,-,-,-,0,16:00:00 CT 16 Jul 2023
+JAN 2025MPXF5,Opt,,-,-,2.3992,-,-,-,0,16:00:00 CT 16 Jul 2023
+FEB 2025MPXG5,Opt,,-,-,2.3853,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAR 2025MPXH5,Opt,,-,-,2.3655,-,-,-,0,16:00:00 CT 16 Jul 2023
+APR 2025MPXJ5,Opt,,-,-,2.3531,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAY 2025MPXK5,Opt,,-,-,2.3428,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUN 2025MPXM5,Opt,,-,-,2.34,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUL 2025MPXN5,Opt,,-,-,2.3377,-,-,-,0,16:00:00 CT 16 Jul 2023
+AUG 2025MPXQ5,Opt,,-,-,2.3356,-,-,-,0,16:00:00 CT 16 Jul 2023
+SEP 2025MPXU5,Opt,,-,-,2.3327,-,-,-,0,16:00:00 CT 16 Jul 2023
+OCT 2025MPXV5,Opt,,-,-,2.3266,-,-,-,0,16:00:00 CT 16 Jul 2023
+NOV 2025MPXX5,Opt,,-,-,2.3184,-,-,-,0,16:00:00 CT 16 Jul 2023
+DEC 2025MPXZ5,Opt,,-,-,2.3246,-,-,-,0,16:00:00 CT 16 Jul 2023
+JAN 2026MPXF6,Opt,,-,-,2.3233,-,-,-,0,16:00:00 CT 16 Jul 2023
+FEB 2026MPXG6,Opt,,-,-,2.3187,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAR 2026MPXH6,Opt,,-,-,2.3074,-,-,-,0,16:00:00 CT 16 Jul 2023
+APR 2026MPXJ6,Opt,,-,-,2.2946,-,-,-,0,16:00:00 CT 16 Jul 2023
+MAY 2026MPXK6,Opt,,-,-,2.2799,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUN 2026MPXM6,Opt,,-,-,2.2823,-,-,-,0,16:00:00 CT 16 Jul 2023
+JUL 2026MPXN6,Opt,,-,-,2.2799,-,-,-,0,16:00:00 CT 16 Jul 2023
+AUG 2026MPXQ6,Opt,,-,-,2.2748,-,-,-,0,16:00:00 CT 16 Jul 2023
+SEP 2026MPXU6,Opt,,-,-,2.2731,-,-,-,0,16:00:00 CT 16 Jul 2023
+OCT 2026MPXV6,Opt,,-,-,2.2662,-,-,-,0,16:00:00 CT 16 Jul 2023
+NOV 2026MPXX6,Opt,,-,-,2.2532,-,-,-,0,16:00:00 CT 16 Jul 2023
+DEC 2026MPXZ6,Opt,,-,-,2.2601,-,-,-,0,16:00:00 CT 16 Jul 2023
