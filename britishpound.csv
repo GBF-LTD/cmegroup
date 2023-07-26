@@ -1,9 +1,31 @@
 Title: BRITISH POUND FUTURES - QUOTES
-Last Settlement Trade Date: Last Updated 25 Jul 2023 06:02:00 PM CT
+Last Settlement Trade Date: Open Interest Profile Tool
+Analyze open interest and open interest change patterns for each expiration within the selected product.
+FX Swap Rate Monitor Tool
+Assess implied interest rate differentials using the mid-market FX swap points from the FX Link central limit order book.
+The FX Roll Analyzer Tool
+Get daily updates and analysis allowing you to adjust quarterly roll strategies for optimal efficiency.
+FX Options Vol Converter Tool
+Access and learn more about CME Group’s innovative tool that calculates and converts listed CME FX options into OTC-equivalent terms.
+Commitment of Traders Tool
+View FX market open interest reports based on CFTC reports in a comprehensive graph format.
+FX Market Profile Tool
+Compare liquidity in OTC spot from EBS and CME FX futures on one screen to identify the optimal time and market to manage your FX risk.
+Looking for more? Explore our additional resources
+QUICKLINKS
+Trade FX options
+FX Market Profile Tool
+G6 options resources: Intermediaries
+FX Swap Rate Monitor Tool
+Subscribe to The FX Report
+Block rules
+FX Options Vol Converter Tool
+FX Product Guide
+FREQUENTLY ASKED QUESTIONS: DISCOVER MORE ABOUT USD/CNH OPTIONS
 Month,Options,Chart,Last,Change,PriorSettle,Open,High,Low,Volume,Updated
 Month,Options,Chart,Last,Change,PriorSettle,Open,High,Low,Volume,Updated
 AUG 20236BQ3,Opt,,1.2946,+0.0050 (+0.39%),1.2896,1.2897,1.2954,1.2886,268,14:58:34 CT 26 Jul 2023
-SEP 20236BU3,Opt,,1.2944,+0.0047 (+0.36%),1.2897,1.2906,1.2964,1.2879,76395,15:22:55 CT 26 Jul 2023
+SEP 20236BU3,Opt,,1.2945,+0.0048 (+0.37%),1.2897,1.2906,1.2964,1.2879,76457,15:24:39 CT 26 Jul 2023
 OCT 20236BV3,Opt,,1.2941,+0.0045 (+0.35%),1.2896,1.2898,1.2954,1.2889,272,14:23:41 CT 26 Jul 2023
 NOV 20236BX3,Opt,,-,-,1.2896,-,-,-,0,14:02:21 CT 26 Jul 2023
 DEC 20236BZ3,Opt,,1.2944,+0.0051 (+0.40%),1.2893,1.2875,1.2951,1.2875,91,14:59:20 CT 26 Jul 2023
