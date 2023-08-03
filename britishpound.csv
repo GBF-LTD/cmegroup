@@ -1,15 +1,36 @@
 Title: BRITISH POUND FUTURES - QUOTES
-Last Settlement Trade Date: Last Updated 02 Aug 2023 06:03:00 PM CT
+Last Settlement Trade Date: Open Interest Profile Tool
+Analyze open interest and open interest change patterns for each expiration within the selected product.
+FX Swap Rate Monitor Tool
+Assess implied interest rate differentials using the mid-market FX swap points from the FX Link central limit order book.
+The FX Roll Analyzer Tool
+Get daily updates and analysis allowing you to adjust quarterly roll strategies for optimal efficiency.
+FX Options Vol Converter Tool
+Access and learn more about CME Group’s innovative tool that calculates and converts listed CME FX options into OTC-equivalent terms.
+Commitment of Traders Tool
+View FX market open interest reports based on CFTC reports in a comprehensive graph format.
+FX Market Profile Tool
+Compare liquidity in OTC spot from EBS and CME FX futures on one screen to identify the optimal time and market to manage your FX risk.
+Looking for more? Explore our additional resources
+QUICKLINKS
+Trade FX options
+FX Market Profile Tool
+G6 options resources: Intermediaries
+FX Swap Rate Monitor Tool
+Subscribe to The FX Report
+Block rules
+FX Options Vol Converter Tool
+FX Product Guide
+FREQUENTLY ASKED QUESTIONS: DISCOVER MORE ABOUT USD/CNH OPTIONS
 Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
-Month,Options,Chart,Last,Change,Prior Settle,Open,High,Low,Volume,Updated
-AUG 2023 6BQ3,Opt,,1.2686,-0.0034 (-0.27%),1.272,1.2725,1.2725,1.2686,103,02:03:07 CT  03 Aug 2023
-SEP 2023 6BU3,Opt,,1.2693,-0.0029 (-0.23%),1.2722,1.2713,1.2731,1.2686,13862,02:14:02 CT  03 Aug 2023
-OCT 2023 6BV3,Opt,,1.2715,-0.0007 (-0.06%),1.2722,1.2715,1.2715,1.2715,106,01:02:54 CT  03 Aug 2023
+AUG 2023 6BQ3,Opt,,1.2693,-0.0027 (-0.21%),1.272,1.2725,1.2725,1.2686,291,03:22:14 CT  03 Aug 2023
+SEP 2023 6BU3,Opt,,1.2692,-0.0030 (-0.24%),1.2722,1.2713,1.2731,1.2686,21497,03:35:13 CT  03 Aug 2023
+OCT 2023 6BV3,Opt,,1.2706,-0.0016 (-0.13%),1.2722,1.2715,1.2715,1.2706,247,02:36:13 CT  03 Aug 2023
 NOV 2023 6BX3,Opt,,-,-,1.2722,-,-,-,0,17:42:45 CT  02 Aug 2023
-DEC 2023 6BZ3,Opt,,-,-,1.272,-,-,-,0,20:27:38 CT  02 Aug 2023
+DEC 2023 6BZ3,Opt,,1.2703,-0.0017 (-0.13%),1.272,1.2704,1.2704,1.2703,17,02:36:13 CT  03 Aug 2023
 JAN 2024 6BF4,Opt,,-,-,0.0,-,-,-,0,17:42:57 CT  02 Aug 2023
 MAR 2024 6BH4,Opt,,-,-,1.2716,-,-,-,0,20:27:38 CT  02 Aug 2023
-JUN 2024 6BM4,Opt,,-,-,1.27,-,-,-,0,20:27:38 CT  02 Aug 2023
+JUN 2024 6BM4,Opt,,1.2684,-0.0016 (-0.13%),1.27,1.2684,1.2684,1.2684,2,02:36:13 CT  03 Aug 2023
 SEP 2024 6BU4,Opt,,-,-,1.2678,-,-,-,0,20:27:38 CT  02 Aug 2023
 DEC 2024 6BZ4,Opt,,-,-,1.2649,-,-,-,0,20:27:38 CT  02 Aug 2023
 MAR 2025 6BH5,Opt,,-,-,1.262,-,-,-,0,17:42:57 CT  02 Aug 2023
